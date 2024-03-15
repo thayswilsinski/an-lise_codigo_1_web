@@ -8,7 +8,7 @@
      A função timeMsg() é definida em um script JavaScript embutido e configura um temporizador para aguardar três segundos antes de chamar a função alertMsg().
      A função ```alertMsg()``` é chamada após os três segundos definidos pela função timeMsg(). Ela escreve o texto "Terminal Root" no documento usando document.write().
 
-<a herf="https://github.com/thayswilsinski/an-lise_codigo_1_web/blob/main/codigo2.html">2°codigo</a>
+<a href="https://github.com/thayswilsinski/an-lise_codigo_1_web/blob/main/codigo2.html">2°codigo</a>
 ![](/img/captura2.png)
 
 >🗂️ ## ```var str = 'Terminal Root';```
